@@ -1,0 +1,6 @@
+{
+  "name": "SINGER ADMJEBOP - Gestão Ministerial",
+  "description": "Sistema de Gestão Ministerial Integrada para a Assembleia de Deus Ministério Jesus o Bom Pastor - Remígio-PB",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
